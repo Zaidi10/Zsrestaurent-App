@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Zsrestaurent-App/static/css/main.26eca4d8.chunk.css",
+    "main.css": "/Zsrestaurent-App/static/css/main.1ca013cf.chunk.css",
     "main.js": "/Zsrestaurent-App/static/js/main.3a90f0c0.chunk.js",
     "main.js.map": "/Zsrestaurent-App/static/js/main.3a90f0c0.chunk.js.map",
     "runtime-main.js": "/Zsrestaurent-App/static/js/runtime-main.0abe9f8e.js",
@@ -9,10 +9,10 @@
     "static/js/2.dbda9249.chunk.js": "/Zsrestaurent-App/static/js/2.dbda9249.chunk.js",
     "static/js/2.dbda9249.chunk.js.map": "/Zsrestaurent-App/static/js/2.dbda9249.chunk.js.map",
     "index.html": "/Zsrestaurent-App/index.html",
-    "precache-manifest.bd4a5bbef2b784e8d0625ed3828f424b.js": "/Zsrestaurent-App/precache-manifest.bd4a5bbef2b784e8d0625ed3828f424b.js",
+    "precache-manifest.f6db4ea81872da9fd4c909b615400c38.js": "/Zsrestaurent-App/precache-manifest.f6db4ea81872da9fd4c909b615400c38.js",
     "service-worker.js": "/Zsrestaurent-App/service-worker.js",
     "static/css/2.33ae93a6.chunk.css.map": "/Zsrestaurent-App/static/css/2.33ae93a6.chunk.css.map",
-    "static/css/main.26eca4d8.chunk.css.map": "/Zsrestaurent-App/static/css/main.26eca4d8.chunk.css.map",
+    "static/css/main.1ca013cf.chunk.css.map": "/Zsrestaurent-App/static/css/main.1ca013cf.chunk.css.map",
     "static/js/2.dbda9249.chunk.js.LICENSE.txt": "/Zsrestaurent-App/static/js/2.dbda9249.chunk.js.LICENSE.txt",
     "static/media/avatar1.jpg": "/Zsrestaurent-App/static/media/avatar1.c4987958.jpg",
     "static/media/App.css": "/Zsrestaurent-App/static/media/cover.dcda5087.jpg",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.0abe9f8e.js",
     "static/css/2.33ae93a6.chunk.css",
     "static/js/2.dbda9249.chunk.js",
-    "static/css/main.26eca4d8.chunk.css",
+    "static/css/main.1ca013cf.chunk.css",
     "static/js/main.3a90f0c0.chunk.js"
   ]
 }

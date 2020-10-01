@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Zsrestaurent-App/precache-manifest.bd4a5bbef2b784e8d0625ed3828f424b.js"
+  "/Zsrestaurent-App/precache-manifest.f6db4ea81872da9fd4c909b615400c38.js"
 );
 
 self.addEventListener('message', (event) => {

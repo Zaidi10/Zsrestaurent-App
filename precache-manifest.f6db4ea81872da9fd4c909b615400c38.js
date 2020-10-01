@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "72566137b2643fa499028eb27fd9fdf4",
+    "revision": "6baf85cb12a08c3a16622dedaa2583e2",
     "url": "/Zsrestaurent-App/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Zsrestaurent-App/static/css/2.33ae93a6.chunk.css"
   },
   {
-    "revision": "462ac0b336a6f19ac4f1",
-    "url": "/Zsrestaurent-App/static/css/main.26eca4d8.chunk.css"
+    "revision": "8f3756498cc28cbc642c",
+    "url": "/Zsrestaurent-App/static/css/main.1ca013cf.chunk.css"
   },
   {
     "revision": "a87758f6f1eb266c54bc",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Zsrestaurent-App/static/js/2.dbda9249.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "462ac0b336a6f19ac4f1",
+    "revision": "8f3756498cc28cbc642c",
     "url": "/Zsrestaurent-App/static/js/main.3a90f0c0.chunk.js"
   },
   {
