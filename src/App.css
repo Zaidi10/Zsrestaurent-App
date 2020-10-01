@@ -957,6 +957,6 @@ address {
 
 @media screen and (min-width: 1900px) {
     .large {
-        padding: 80px;
+        padding: 40px;
     }
 }
